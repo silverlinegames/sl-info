@@ -20,6 +20,7 @@
 | **EDR** | Nuestro primer juego: historia, cooperativo y acción — muy pronto en Steam |
 | **Filosofía** | Originalidad, todos los géneros, accesibilidad y evolución |
 | **Inversión** | Plan claro: $1,745 MXN (Claude) + $1,745 MXN (Steam) entre 4 socios |
+| **Ventas** | Precio de $5–10 USD en Steam y meta mínima de 100 copias por juego: matemática de ingresos, escalera de metas (100 → 500 → 1,000) y cómo lograr las primeras ventas |
 | **Crecimiento** | Regalo de EDR a creadores de contenido + promoción directa del estudio |
 | **Equipo** | Alvaro (CEO y Director de Gameplay y Desarrollo), Alaniz, Adán y Ragnar |
 | **Ruta** | Hoja de ruta: empezar simple, subir el nivel, crecer como estudio |

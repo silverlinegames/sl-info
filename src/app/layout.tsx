@@ -16,7 +16,7 @@ const geistMono = Geist({
 export const metadata: Metadata = {
   title: "Silverline Games — Estudio independiente de videojuegos",
   description:
-    "Silverline Games es un estudio independiente que crea juegos originales de todos los géneros: historia, cooperativo y acción. Conoce a EDR, nuestro primer juego, el plan de inversión y al equipo detrás del dragón.",
+    "Silverline Games es un estudio independiente que crea juegos originales de todos los géneros: historia, cooperativo y acción. Conoce a EDR, nuestro primer juego, el plan de inversión, el plan de ventas en Steam y al equipo detrás del dragón.",
   keywords: [
     "Silverline Games",
     "EDR",
